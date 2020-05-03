@@ -36,7 +36,7 @@
     "chalk": "^1.1.1",
     "commander": "^2.9.0",
     "consolidate": "^0.14.0",
-    "download-git-repo": "^0.2.1",
+    "download-git-repo": "^1.0.0",
     "handlebars": "^4.0.5",
     "inquirer": "^0.12.0",
     "metalsmith": "^2.1.0",
@@ -48,7 +48,8 @@
     "semver": "^5.1.0",
     "uid": "0.0.2",
     "validate-npm-package-name": "^2.2.2",
-    "snyk": "^1.189.0"
+
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "babel-core": "^6.7.4",
